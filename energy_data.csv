@@ -1,0 +1,16 @@
+source,target,flow
+Grid Electricity,HVAC,850
+Grid Electricity,Machinery,1200
+Grid Electricity,Lighting,350
+Grid Electricity,Data Centers,400
+Natural Gas,Heating,1500
+Natural Gas,Machinery,750
+Solar Panels,Lighting,250
+Solar Panels,Data Centers,300
+Solar Panels,Battery Storage,500
+Battery Storage,HVAC,150
+Battery Storage,Machinery,200
+Geothermal,Heating,600
+Biomass,Heating,450
+Wind Turbine,Battery Storage,300
+Wind Turbine,Grid Export,200
